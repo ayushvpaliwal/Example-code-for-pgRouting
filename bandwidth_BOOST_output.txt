@@ -1,0 +1,11 @@
+bandwidth of Given Graph :8
+bandwidth of 0th vertex :5
+bandwidth of 1th vertex :8
+bandwidth of 2th vertex :2
+bandwidth of 3th vertex :5
+bandwidth of 4th vertex :3
+bandwidth of 5th vertex :5
+bandwidth of 6th vertex :5
+bandwidth of 7th vertex :2
+bandwidth of 8th vertex :5
+bandwidth of 9th vertex :8
