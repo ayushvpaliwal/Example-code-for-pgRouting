@@ -1,0 +1,10 @@
+abs BC of vertex 0:  0  rel BC of vertex 0: 0
+abs BC of vertex 1:  8.83333  rel BC of vertex 1: 0.24537
+abs BC of vertex 2:  7.5  rel BC of vertex 2: 0.208333
+abs BC of vertex 3:  11.8333  rel BC of vertex 3: 0.328704
+abs BC of vertex 4:  0.833333  rel BC of vertex 4: 0.0231481
+abs BC of vertex 5:  7.83333  rel BC of vertex 5: 0.217593
+abs BC of vertex 6:  8.16667  rel BC of vertex 6: 0.226852
+abs BC of vertex 7:  0  rel BC of vertex 7: 0
+abs BC of vertex 8:  0  rel BC of vertex 8: 0
+abs BC of vertex 9:  0  rel BC of vertex 9: 0
